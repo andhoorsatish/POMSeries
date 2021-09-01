@@ -12,6 +12,7 @@ public class ArchivePageTest extends BaseTest{
 	public ArchivePageTest(WebDriver driver) {
 		
 		System.out.println("Test out put");
+		System.out.println("Test out put");
 		
 	}
 
